@@ -4,6 +4,8 @@ Dockerhub status
 
 [![](https://images.microbadger.com/badges/version/thesolution90/tex-compiler.svg)](https://microbadger.com/images/thesolution90/tex-compiler "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/thesolution90/tex-compiler.svg)](https://microbadger.com/images/thesolution90/tex-compiler "Get your own image badge on microbadger.com")
 
+------
+
 TeX to PDF converter based on docker and docker-compose
 
 Usage:
