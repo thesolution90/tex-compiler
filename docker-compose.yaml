@@ -1,6 +1,6 @@
 version: "3"
 services:
-  fom:
+  tex-compile:
       image: thesolution90/tex-compiler
       environment: 
         - TEXDOC=thesis_main.tex
